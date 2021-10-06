@@ -13,8 +13,8 @@ To run this project, you will need to create a new telegram bot from @botFather 
   
 ## Screenshots
 
-![Form](https://raw.github.com/erastimothy/e-voting-php-native/main/public/image/form.png)
+![Form](https://raw.github.com/erastimothy/telegram-notif-channel-laravel/main/public/image/form.png)
 
-![Channel](https://raw.github.com/erastimothy/e-voting-php-native/main/public/image/telegram-channel.png)
+![Channel](https://raw.github.com/erastimothy/telegram-notif-channel-laravel/main/public/image/telegram-channel.png)
 
   
